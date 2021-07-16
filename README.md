@@ -1,8 +1,7 @@
-###
-  Platform for Professional Photographers
-  url : https://www.behance.net/gallery/95157433/Platform-for-Professional-Photographers
-  video : https://www.youtube.com/watch?v=e11byhE2hIA
-###
+Platform for Professional Photographers
+
+url : https://www.behance.net/gallery/95157433/Platform-for-Professional-Photographers
+video : https://www.youtube.com/watch?v=e11byhE2hIA
 
 Platform for Professional Photographers
 ![0d16d495157433 5e930ffa92195](https://user-images.githubusercontent.com/68588944/125983770-030b40b7-efb6-4bc2-b3b6-6f9c804e4183.jpg)
